@@ -1,0 +1,5 @@
+{
+  "name": "ClassifyBot",
+  "description": "An intelligent web application to automatically classify product descriptions from an Excel file using AI. Upload your file, and ClassifyBot provides a hierarchical classification, ready for download.",
+  "requestFramePermissions": []
+}
